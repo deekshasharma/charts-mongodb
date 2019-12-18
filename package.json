@@ -1,0 +1,10 @@
+{
+  "name": "embed-mongodb-charts-on-static-sites",
+  "version": "1.0.0",
+  "description": "This repository contains the 2 ways (Unauthenticated and Verified) of embedding MongoDB charts on a static site.",
+  "main": "server.js",
+  "author": "Deeksha Sharma",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
